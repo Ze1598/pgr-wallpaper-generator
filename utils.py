@@ -115,11 +115,13 @@ def prepare_loaded_art(res, img_dimensions, art_type: str):
     art_dims = art.size
     # st.write("art_dims", art_dims)
     if art_dims[0] > 2500:
-        resize_factor = 0.35
+        resize_factor = 0.31
     elif art_dims[0] > 2000:
         resize_factor = 0.35
+    elif art_dims[0] < 1050:
+        resize_factor = 0.8
     elif art_dims[0] < 1100:
-        resize_factor = 0.6
+        resize_factor = 0.65
     elif art_dims[0] < 1300:
         resize_factor = 0.8
     else:
