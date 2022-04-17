@@ -1,0 +1,301 @@
+{
+    "Lucia: Lotus": {
+        "Lotus Generic": "https://static.miraheze.org/pgrwiki/a/aa/Coating-Lotus-Generic.png",
+        "Lotus GenericModified": "https://static.miraheze.org/pgrwiki/8/8c/Coating-Lotus-GenericModified.png",
+        "Lotus GenericFinal": "https://static.miraheze.org/pgrwiki/6/60/Coating-Lotus-GenericFinal.png",
+        "Lotus GrayFeathers": "https://static.miraheze.org/pgrwiki/4/47/Coating-Lotus-GrayFeathers.png",
+        "Lotus Daybreak": "https://static.miraheze.org/pgrwiki/d/d8/Coating-Lotus-Daybreak.png",
+        "Lotus RainWalking": "https://static.miraheze.org/pgrwiki/a/af/Coating-Lotus-RainWalking.png"
+    },
+    "Liv: Eclipse": {
+        "Eclipse Generic": "https://static.miraheze.org/pgrwiki/b/b1/Coating-Eclipse-Generic.png",
+        "Eclipse GenericModified": "https://static.miraheze.org/pgrwiki/c/c0/Coating-Eclipse-GenericModified.png",
+        "Eclipse GenericFinal": "https://static.miraheze.org/pgrwiki/d/d7/Coating-Eclipse-GenericFinal.png",
+        "Eclipse GrayFeathers": "https://static.miraheze.org/pgrwiki/7/7e/Coating-Eclipse-GrayFeathers.png",
+        "Eclipse Tiara": "https://static.miraheze.org/pgrwiki/4/49/Coating-Eclipse-Tiara.png",
+        "Eclipse MaidofTime": "https://static.miraheze.org/pgrwiki/d/d8/Coating-Eclipse-MaidofTime.png",
+        "Eclipse Alt4": "https://static.miraheze.org/pgrwiki/f/f6/Coating-Eclipse-Alt4.png",
+        "Eclipse Alt5": "https://static.miraheze.org/pgrwiki/f/f8/Coating-Eclipse-Alt5.png"
+    },
+    "Nanami: Storm": {
+        "Storm Generic": "https://static.miraheze.org/pgrwiki/1/13/Coating-Storm-Generic.png",
+        "Storm GenericModified": "https://static.miraheze.org/pgrwiki/e/e9/Coating-Storm-GenericModified.png",
+        "Storm GenericFinal": "https://static.miraheze.org/pgrwiki/3/38/Coating-Storm-GenericFinal.png",
+        "Storm GrayFeathers": "https://static.miraheze.org/pgrwiki/f/f8/Coating-Storm-GrayFeathers.png"
+    },
+    "Lucia: Dawn": {
+        "Dawn Generic": "https://static.miraheze.org/pgrwiki/8/8d/Coating-Dawn-Generic.png",
+        "Dawn GenericModified": "https://static.miraheze.org/pgrwiki/1/1d/Coating-Dawn-GenericModified.png",
+        "Dawn GenericFinal": "https://static.miraheze.org/pgrwiki/5/59/Coating-Dawn-GenericFinal.png",
+        "Dawn GrayFeathers": "https://static.miraheze.org/pgrwiki/9/90/Coating-Dawn-GrayFeathers.png",
+        "Dawn Gothic": "https://static.miraheze.org/pgrwiki/f/fc/Coating-Dawn-Gothic.png",
+        "Dawn Alt3": "https://static.miraheze.org/pgrwiki/1/11/Coating-Dawn-Alt3.png"
+    },
+    "Liv: Lux": {
+        "Lux Generic": "https://static.miraheze.org/pgrwiki/2/21/Coating-Lux-Generic.png",
+        "Lux GenericModified": "https://static.miraheze.org/pgrwiki/6/6d/Coating-Lux-GenericModified.png",
+        "Lux GenericFinal": "https://static.miraheze.org/pgrwiki/c/c1/Coating-Lux-GenericFinal.png",
+        "Lux GrayFeathers": "https://static.miraheze.org/pgrwiki/c/c8/Coating-Lux-GrayFeathers.png",
+        "Lux SpringBreeze": "https://static.miraheze.org/pgrwiki/5/56/Coating-Lux-SpringBreeze.png",
+        "Lux Alt3": "https://static.miraheze.org/pgrwiki/3/3d/Coating-Lux-Alt3.png",
+        "Lux Alt4": "https://static.miraheze.org/pgrwiki/9/92/Coating-Lux-Alt4.png"
+    },
+    "Lee: Palefire": {
+        "Palefire Generic": "https://static.miraheze.org/pgrwiki/6/61/Coating-Palefire-Generic.png",
+        "Palefire GenericModified": "https://static.miraheze.org/pgrwiki/4/4c/Coating-Palefire-GenericModified.png",
+        "Palefire GenericFinal": "https://static.miraheze.org/pgrwiki/4/45/Coating-Palefire-GenericFinal.png",
+        "Palefire GrayFeathers": "https://static.miraheze.org/pgrwiki/9/9b/Coating-Palefire-GrayFeathers.png",
+        "Palefire Alt2": "https://static.miraheze.org/pgrwiki/3/3b/Coating-Palefire-Alt2.png"
+    },
+    "Watanabe: Nightblade": {
+        "Nightblade Generic": "https://static.miraheze.org/pgrwiki/b/b7/Coating-Nightblade-Generic.png",
+        "Nightblade GenericModified": "https://static.miraheze.org/pgrwiki/6/6f/Coating-Nightblade-GenericModified.png",
+        "Nightblade GenericFinal": "https://static.miraheze.org/pgrwiki/6/60/Coating-Nightblade-GenericFinal.png",
+        "Nightblade GrayFeathers": "https://static.miraheze.org/pgrwiki/2/29/Coating-Nightblade-GrayFeathers.png"
+    },
+    "Bianca: Zero": {
+        "Zero Generic": "https://static.miraheze.org/pgrwiki/f/f6/Coating-Zero-Generic.png",
+        "Zero GenericModified": "https://static.miraheze.org/pgrwiki/a/a2/Coating-Zero-GenericModified.png",
+        "Zero GenericFinal": "https://static.miraheze.org/pgrwiki/d/d1/Coating-Zero-GenericFinal.png",
+        "Zero GrayFeathers": "https://static.miraheze.org/pgrwiki/2/26/Coating-Zero-GrayFeathers.png",
+        "Zero Thistle": "https://static.miraheze.org/pgrwiki/8/86/Coating-Zero-Thistle.png"
+    },
+    "Karenina: Blast": {
+        "Blast Generic": "https://static.miraheze.org/pgrwiki/3/35/Coating-Blast-Generic.png",
+        "Blast GenericModified": "https://static.miraheze.org/pgrwiki/0/00/Coating-Blast-GenericModified.png",
+        "Blast GenericFinal": "https://static.miraheze.org/pgrwiki/f/f6/Coating-Blast-GenericFinal.png",
+        "Blast GrayFeathers": "https://static.miraheze.org/pgrwiki/b/b4/Coating-Blast-GrayFeathers.png",
+        "Blast CracknBlast": "https://static.miraheze.org/pgrwiki/8/86/Coating-Blast-CracknBlast.png"
+    },
+    "Liv: Luminance": {
+        "Luminance Generic": "https://static.miraheze.org/pgrwiki/e/e7/Coating-Luminance-Generic.png",
+        "Luminance GenericModified": "https://static.miraheze.org/pgrwiki/0/0d/Coating-Luminance-GenericModified.png",
+        "Luminance GenericFinal": "https://static.miraheze.org/pgrwiki/b/bb/Coating-Luminance-GenericFinal.png",
+        "Luminance GrayFeathers": "https://static.miraheze.org/pgrwiki/f/fb/Coating-Luminance-GrayFeathers.png",
+        "Luminance SkeletalBride": "https://static.miraheze.org/pgrwiki/b/b7/Coating-Luminance-SkeletalBride.png",
+        "Luminance PuellaSubnautica": "https://static.miraheze.org/pgrwiki/9/94/Coating-Luminance-PuellaSubnautica.png",
+        "Luminance Alt4": "https://static.miraheze.org/pgrwiki/4/4d/Coating-Luminance-Alt4.png"
+    },
+    "Lee: Entropy": {
+        "Entropy Generic": "https://static.miraheze.org/pgrwiki/0/05/Coating-Entropy-Generic.png",
+        "Entropy GenericModified": "https://static.miraheze.org/pgrwiki/b/b6/Coating-Entropy-GenericModified.png",
+        "Entropy GenericFinal": "https://static.miraheze.org/pgrwiki/f/fd/Coating-Entropy-GenericFinal.png",
+        "Entropy GrayFeathers": "https://static.miraheze.org/pgrwiki/3/3e/Coating-Entropy-GrayFeathers.png",
+        "Entropy AshenEnd": "https://static.miraheze.org/pgrwiki/a/a8/Coating-Entropy-AshenEnd.png",
+        "Entropy OceanicBlues": "https://static.miraheze.org/pgrwiki/e/ef/Coating-Entropy-OceanicBlues.png",
+        "Entropy Alt4": "https://static.miraheze.org/pgrwiki/e/ee/Coating-Entropy-Alt4.png"
+    },
+    "Karenina: Ember": {
+        "Ember Generic": "https://static.miraheze.org/pgrwiki/a/aa/Coating-Ember-Generic.png",
+        "Ember GenericModified": "https://static.miraheze.org/pgrwiki/c/c3/Coating-Ember-GenericModified.png",
+        "Ember GenericFinal": "https://static.miraheze.org/pgrwiki/8/82/Coating-Ember-GenericFinal.png",
+        "Ember GrayFeathers": "https://static.miraheze.org/pgrwiki/2/23/Coating-Ember-GrayFeathers.png",
+        "Ember Machina": "https://static.miraheze.org/pgrwiki/8/85/Coating-Ember-Machina.png",
+        "Ember BloodyLove": "https://static.miraheze.org/pgrwiki/7/75/Coating-Ember-BloodyLove.png",
+        "Ember TulleRedbud": "https://static.miraheze.org/pgrwiki/6/62/Coating-Ember-TulleRedbud.png",
+        "Ember Alt5": "https://static.miraheze.org/pgrwiki/1/1b/Coating-Ember-Alt5.png",
+        "Ember Alt6": "https://static.miraheze.org/pgrwiki/e/e9/Coating-Ember-Alt6.png"
+    },
+    "Nanami: Pulse": {
+        "Pulse Generic": "https://static.miraheze.org/pgrwiki/e/ee/Coating-Pulse-Generic.png",
+        "Pulse GenericModified": "https://static.miraheze.org/pgrwiki/a/ad/Coating-Pulse-GenericModified.png",
+        "Pulse GenericFinal": "https://static.miraheze.org/pgrwiki/e/eb/Coating-Pulse-GenericFinal.png",
+        "Pulse GrayFeathers": "https://static.miraheze.org/pgrwiki/d/da/Coating-Pulse-GrayFeathers.png",
+        "Pulse ShootingStar": "https://static.miraheze.org/pgrwiki/f/f2/Coating-Pulse-ShootingStar.png",
+        "Pulse JollySantanami": "https://static.miraheze.org/pgrwiki/8/8c/Coating-Pulse-JollySantanami.png",
+        "Pulse Alt3": "https://static.miraheze.org/pgrwiki/4/46/Coating-Pulse-Alt3.png",
+        "Pulse Alt4": "https://static.miraheze.org/pgrwiki/d/da/Coating-Pulse-Alt4.png"
+    },
+    "Kamui: Tenebrion": {
+        "Tenebrion Generic": "https://static.miraheze.org/pgrwiki/6/6e/Coating-Tenebrion-Generic.png",
+        "Tenebrion GenericModified": "https://static.miraheze.org/pgrwiki/2/27/Coating-Tenebrion-GenericModified.png",
+        "Tenebrion GenericFinal": "https://static.miraheze.org/pgrwiki/c/c4/Coating-Tenebrion-GenericFinal.png",
+        "Tenebrion GrayFeathers": "https://static.miraheze.org/pgrwiki/a/a1/Coating-Tenebrion-GrayFeathers.png",
+        "Tenebrion ShadowVanguard": "https://static.miraheze.org/pgrwiki/1/1a/Coating-Tenebrion-ShadowVanguard.png",
+        "Tenebrion SpectralParade": "https://static.miraheze.org/pgrwiki/f/f2/Coating-Tenebrion-SpectralParade.png",
+        "Tenebrion Alt4": "https://static.miraheze.org/pgrwiki/e/ec/Coating-Tenebrion-Alt4.png"
+    },
+    "Lucia: Crimson Abyss": {
+        "CrimsonAbyss Generic": "https://static.miraheze.org/pgrwiki/c/c6/Coating-CrimsonAbyss-Generic.png",
+        "CrimsonAbyss GenericModified": "https://static.miraheze.org/pgrwiki/e/e7/Coating-CrimsonAbyss-GenericModified.png",
+        "CrimsonAbyss GenericFinal": "https://static.miraheze.org/pgrwiki/5/53/Coating-CrimsonAbyss-GenericFinal.png",
+        "CrimsonAbyss GrayFeathers": "https://static.miraheze.org/pgrwiki/4/49/Coating-CrimsonAbyss-GrayFeathers.png",
+        "CrimsonAbyss FinalJourney": "https://static.miraheze.org/pgrwiki/8/86/Coating-CrimsonAbyss-FinalJourney.png",
+        "CrimsonAbyss VolatilePriestess": "https://static.miraheze.org/pgrwiki/3/33/Coating-CrimsonAbyss-VolatilePriestess.png",
+        "CrimsonAbyss SeasideSunbath": "https://static.miraheze.org/pgrwiki/e/e7/Coating-CrimsonAbyss-SeasideSunbath.png",
+        "CrimsonAbyss Alt5": "https://static.miraheze.org/pgrwiki/e/e1/Coating-CrimsonAbyss-Alt5.png"
+    },
+    "Kamui: Bastion": {
+        "Bastion Generic": "https://static.miraheze.org/pgrwiki/2/2e/Coating-Bastion-Generic.png",
+        "Bastion GenericModified": "https://static.miraheze.org/pgrwiki/e/eb/Coating-Bastion-GenericModified.png",
+        "Bastion GenericFinal": "https://static.miraheze.org/pgrwiki/2/28/Coating-Bastion-GenericFinal.png",
+        "Bastion GrayFeathers": "https://static.miraheze.org/pgrwiki/4/42/Coating-Bastion-GrayFeathers.png",
+        "Bastion EndMessenger": "https://static.miraheze.org/pgrwiki/7/76/Coating-Bastion-EndMessenger.png"
+    },
+    "Watanabe: Astral": {
+        "Astral Generic": "https://static.miraheze.org/pgrwiki/9/96/Coating-Astral-Generic.png",
+        "Astral GenericModified": "https://static.miraheze.org/pgrwiki/f/f4/Coating-Astral-GenericModified.png",
+        "Astral GenericFinal": "https://static.miraheze.org/pgrwiki/5/57/Coating-Astral-GenericFinal.png",
+        "Astral FieldTraining": "https://static.miraheze.org/pgrwiki/f/f9/Coating-Astral-FieldTraining.png",
+        "Astral SkylineTrial": "https://static.miraheze.org/pgrwiki/3/38/Coating-Astral-SkylineTrial.png",
+        "Astral Alt3": "https://static.miraheze.org/pgrwiki/0/07/Coating-Astral-Alt3.png"
+    },
+    "Ayla: Brilliance": {
+        "Brilliance Generic": "https://static.miraheze.org/pgrwiki/5/56/Coating-Brilliance-Generic.png",
+        "Brilliance GenericModified": "https://static.miraheze.org/pgrwiki/0/0a/Coating-Brilliance-GenericModified.png",
+        "Brilliance GenericFinal 2": "https://static.miraheze.org/pgrwiki/1/18/Coating-Brilliance-GenericFinal-2.png",
+        "Brilliance GenericFinal": "https://static.miraheze.org/pgrwiki/c/c3/Coating-Brilliance-GenericFinal.png",
+        "Brilliance AdventurousSpirit": "https://static.miraheze.org/pgrwiki/6/63/Coating-Brilliance-AdventurousSpirit.png",
+        "Brilliance AsterHare": "https://static.miraheze.org/pgrwiki/9/9c/Coating-Brilliance-AsterHare.png",
+        "Brilliance Alt3": "https://static.miraheze.org/pgrwiki/e/ea/Coating-Brilliance-Alt3.png"
+    },
+    "Bianca: Veritas": {
+        "Veritas Generic": "https://static.miraheze.org/pgrwiki/9/97/Coating-Veritas-Generic.png",
+        "Veritas GenericModified": "https://static.miraheze.org/pgrwiki/e/ec/Coating-Veritas-GenericModified.png",
+        "Veritas GenericFinal": "https://static.miraheze.org/pgrwiki/1/19/Coating-Veritas-GenericFinal.png",
+        "Veritas PactofZero": "https://static.miraheze.org/pgrwiki/1/1f/Coating-Veritas-PactofZero.png",
+        "Veritas Alt2": "https://static.miraheze.org/pgrwiki/5/50/Coating-Veritas-Alt2.png",
+        "Veritas Alt3": "https://static.miraheze.org/pgrwiki/7/73/Coating-Veritas-Alt3.png",
+        "Veritas Alt4": "https://static.miraheze.org/pgrwiki/0/0d/Coating-Veritas-Alt4.png"
+    },
+    "Sophia: Silverfang": {
+        "Silverfang Generic": "https://static.miraheze.org/pgrwiki/5/53/Coating-Silverfang-Generic.png",
+        "Silverfang GenericModified": "https://static.miraheze.org/pgrwiki/2/24/Coating-Silverfang-GenericModified.png",
+        "Silverfang GenericFinal": "https://static.miraheze.org/pgrwiki/8/8a/Coating-Silverfang-GenericFinal.png",
+        "Silverfang ChiefMechanic": "https://static.miraheze.org/pgrwiki/e/e8/Coating-Silverfang-ChiefMechanic.png",
+        "Silverfang StarryDesert": "https://static.miraheze.org/pgrwiki/8/80/Coating-Silverfang-StarryDesert.png"
+    },
+    "Chrome: Arclight": {
+        "Arclight Generic": "https://static.miraheze.org/pgrwiki/9/9d/Coating-Arclight-Generic.png",
+        "Arclight GenericModified": "https://static.miraheze.org/pgrwiki/d/de/Coating-Arclight-GenericModified.png",
+        "Arclight GenericFinal": "https://static.miraheze.org/pgrwiki/5/53/Coating-Arclight-GenericFinal.png",
+        "Arclight DreamEater": "https://static.miraheze.org/pgrwiki/b/be/Coating-Arclight-DreamEater.png",
+        "Arclight Alt2": "https://static.miraheze.org/pgrwiki/0/07/Coating-Arclight-Alt2.png"
+    },
+    "Lucia: Plume": {
+        "Plume Generic": "https://static.miraheze.org/pgrwiki/5/53/Coating-Plume-Generic.png",
+        "Plume GenericModified": "https://static.miraheze.org/pgrwiki/b/b4/Coating-Plume-GenericModified.png",
+        "Plume GenericFinal": "https://static.miraheze.org/pgrwiki/5/50/Coating-Plume-GenericFinal.png",
+        "Plume Alt1": "https://static.miraheze.org/pgrwiki/3/38/Coating-Plume-Alt1.png",
+        "Plume Alt2": "https://static.miraheze.org/pgrwiki/3/3c/Coating-Plume-Alt2.png"
+    },
+    "Vera: Rozen": {
+        "Rozen Generic": "https://static.miraheze.org/pgrwiki/9/95/Coating-Rozen-Generic.png",
+        "Rozen GenericModified": "https://static.miraheze.org/pgrwiki/2/2d/Coating-Rozen-GenericModified.png",
+        "Rozen GenericFinal": "https://static.miraheze.org/pgrwiki/b/b4/Coating-Rozen-GenericFinal.png",
+        "Rozen NightFever": "https://static.miraheze.org/pgrwiki/5/5d/Coating-Rozen-NightFever.png"
+    },
+    "Camu: Crocotta": {
+        "Crocotta Generic": "https://static.miraheze.org/pgrwiki/9/9c/Coating-Crocotta-Generic.png",
+        "Crocotta GenericModified": "https://static.miraheze.org/pgrwiki/7/7f/Coating-Crocotta-GenericModified.png",
+        "Crocotta GenericFinal": "https://static.miraheze.org/pgrwiki/1/1b/Coating-Crocotta-GenericFinal.png",
+        "Crocotta YakshaUndertow": "https://static.miraheze.org/pgrwiki/2/27/Coating-Crocotta-YakshaUndertow.png"
+    },
+    "Rosetta: Rigor": {
+        "Rigor Generic": "https://static.miraheze.org/pgrwiki/9/9e/Coating-Rigor-Generic.png",
+        "Rigor GenericModified": "https://static.miraheze.org/pgrwiki/0/0c/Coating-Rigor-GenericModified.png",
+        "Rigor GenericFinal": "https://static.miraheze.org/pgrwiki/2/2d/Coating-Rigor-GenericFinal.png",
+        "Rigor Einherjar": "https://static.miraheze.org/pgrwiki/7/72/Coating-Rigor-Einherjar.png",
+        "Rigor Alt2": "https://static.miraheze.org/pgrwiki/1/1e/Coating-Rigor-Alt2.png"
+    },
+    "Changyu: Qilin": {
+        "Qilin Generic": "https://static.miraheze.org/pgrwiki/c/c1/Coating-Qilin-Generic.png",
+        "Qilin GenericModified": "https://static.miraheze.org/pgrwiki/6/65/Coating-Qilin-GenericModified.png",
+        "Qilin GenericFinal": "https://static.miraheze.org/pgrwiki/7/7b/Coating-Qilin-GenericFinal.png",
+        "Qilin WinterHunter": "https://static.miraheze.org/pgrwiki/6/6b/Coating-Qilin-WinterHunter.png"
+    },
+    "Qu: Pavo": {
+        "Pavo Generic": "https://static.miraheze.org/pgrwiki/a/ad/Coating-Pavo-Generic.png",
+        "Pavo GenericModified": "https://static.miraheze.org/pgrwiki/5/5c/Coating-Pavo-GenericModified.png",
+        "Pavo GenericFinal": "https://static.miraheze.org/pgrwiki/1/1a/Coating-Pavo-GenericFinal.png",
+        "Pavo FlawlessTempo": "https://static.miraheze.org/pgrwiki/e/ea/Coating-Pavo-FlawlessTempo.png",
+        "Pavo Alt2": "https://static.miraheze.org/pgrwiki/1/18/Coating-Pavo-Alt2.png"
+    },
+    "Luna: Laurel": {
+        "Laurel Generic": "https://static.miraheze.org/pgrwiki/8/88/Coating-Laurel-Generic.png",
+        "Laurel GenericModified": "https://static.miraheze.org/pgrwiki/a/a2/Coating-Laurel-GenericModified.png",
+        "Laurel GenericFinal": "https://static.miraheze.org/pgrwiki/9/93/Coating-Laurel-GenericFinal.png",
+        "Laurel AriaOfThorn": "https://static.miraheze.org/pgrwiki/5/50/Coating-Laurel-AriaOfThorn.png",
+        "Laurel Alt2": "https://static.miraheze.org/pgrwiki/4/4b/Coating-Laurel-Alt2.png"
+    },
+    "2B": {
+        "2B Generic": "https://static.miraheze.org/pgrwiki/7/78/Coating-2B-Generic.png",
+        "2B Alt1": "https://static.miraheze.org/pgrwiki/7/79/Coating-2B-Alt1.png"
+    },
+    "9S": {
+        "9S Generic": "https://static.miraheze.org/pgrwiki/7/78/Coating-9S-Generic.png",
+        "9S Alt1": "https://static.miraheze.org/pgrwiki/2/2f/Coating-9S-Alt1.png"
+    },
+    "A2": {
+        "A2 Generic": "https://static.miraheze.org/pgrwiki/9/9b/Coating-A2-Generic.png",
+        "A2 Alt1": "https://static.miraheze.org/pgrwiki/b/b8/Coating-A2-Alt1.png"
+    },
+    "Wanshi: Fate": {
+        "Fate Generic": "https://static.miraheze.org/pgrwiki/c/c9/Coating-Fate-Generic.png",
+        "Fate GenericModified": "https://static.miraheze.org/pgrwiki/9/97/Coating-Fate-GenericModified.png",
+        "Fate GenericFinal": "https://static.miraheze.org/pgrwiki/4/46/Coating-Fate-GenericFinal.png",
+        "Fate Alt1": "https://static.miraheze.org/pgrwiki/6/68/Coating-Fate-Alt1.png"
+    },
+    "Selena: Tempest": {
+        "Tempest Generic": "https://static.miraheze.org/pgrwiki/4/41/Coating-Tempest-Generic.png",
+        "Tempest GenericModified": "https://static.miraheze.org/pgrwiki/5/53/Coating-Tempest-GenericModified.png",
+        "Tempest GenericFinal": "https://static.miraheze.org/pgrwiki/5/53/Coating-Tempest-GenericFinal.png",
+        "Tempest Alt1": "https://static.miraheze.org/pgrwiki/e/e9/Coating-Tempest-Alt1.png",
+        "Tempest Alt2": "https://static.miraheze.org/pgrwiki/3/35/Coating-Tempest-Alt2.png"
+    },
+    "Chrome: Glory": {
+        "Glory Generic": "https://static.miraheze.org/pgrwiki/9/92/Coating-Glory-Generic.png",
+        "Glory GenericModified": "https://static.miraheze.org/pgrwiki/e/ee/Coating-Glory-GenericModified.png",
+        "Glory GenericFinal": "https://static.miraheze.org/pgrwiki/0/0f/Coating-Glory-GenericFinal.png",
+        "Glory Alt1": "https://static.miraheze.org/pgrwiki/8/89/Coating-Glory-Alt1.png",
+        "Glory Alt2": "https://static.miraheze.org/pgrwiki/8/81/Coating-Glory-Alt2.png"
+    },
+    "No.21: XXI": {
+        "XXI Generic": "https://static.miraheze.org/pgrwiki/6/6f/Coating-XXI-Generic.png",
+        "XXI GenericModified": "https://static.miraheze.org/pgrwiki/6/6e/Coating-XXI-GenericModified.png",
+        "XXI GenericFinal": "https://static.miraheze.org/pgrwiki/c/c2/Coating-XXI-GenericFinal.png",
+        "XXI Alt1": "https://static.miraheze.org/pgrwiki/c/c7/Coating-XXI-Alt1.png"
+    },
+    "Vera: Flare": {
+        "Flare Generic": "https://static.miraheze.org/pgrwiki/6/68/Coating-Flare-Generic.png",
+        "Flare GenericModified": "https://static.miraheze.org/pgrwiki/4/42/Coating-Flare-GenericModified.png",
+        "Flare GenericFinal": "https://static.miraheze.org/pgrwiki/4/46/Coating-Flare-GenericFinal.png",
+        "Flare Alt1": "https://static.miraheze.org/pgrwiki/d/d9/Coating-Flare-Alt1.png"
+    },
+    "Roland: Theatrical Flame": {
+        "TheatricalFlame Generic": "https://static.miraheze.org/pgrwiki/4/43/Coating-TheatricalFlame-Generic.png",
+        "TheatricalFlame GenericModified": "https://static.miraheze.org/pgrwiki/1/19/Coating-TheatricalFlame-GenericModified.png",
+        "TheatricalFlame GenericFinal": "https://static.miraheze.org/pgrwiki/2/22/Coating-TheatricalFlame-GenericFinal.png",
+        "TheatricalFlame Alt1": "https://static.miraheze.org/pgrwiki/d/d7/Coating-TheatricalFlame-Alt1.png"
+    },
+    "Liv: Solaeter": {
+        "Solaeter Generic": "https://static.miraheze.org/pgrwiki/4/4a/Coating-Solaeter-Generic.png",
+        "Solaeter GenericModified": "https://static.miraheze.org/pgrwiki/9/92/Coating-Solaeter-GenericModified.png",
+        "Solaeter GenericFinal": "https://static.miraheze.org/pgrwiki/6/6d/Coating-Solaeter-GenericFinal.png",
+        "Solaeter Alt1": "https://static.miraheze.org/pgrwiki/8/83/Coating-Solaeter-Alt1.png"
+    },
+    "Selena: Capriccio": {
+        "Capriccio Generic": "https://static.miraheze.org/pgrwiki/8/88/Coating-Capriccio-Generic.png",
+        "Capriccio GenericModified": "https://static.miraheze.org/pgrwiki/f/f1/Coating-Capriccio-GenericModified.png",
+        "Capriccio GenericFinal": "https://static.miraheze.org/pgrwiki/3/35/Coating-Capriccio-GenericFinal.png",
+        "Capriccio Alt1": "https://static.miraheze.org/pgrwiki/b/b6/Coating-Capriccio-Alt1.png"
+    },
+    "Pulao: Ornate Bell": {
+        "OrnateBell Generic": "https://static.miraheze.org/pgrwiki/2/2e/Coating-OrnateBell-Generic.png",
+        "OrnateBell GenericModified": "https://static.miraheze.org/pgrwiki/4/42/Coating-OrnateBell-GenericModified.png",
+        "OrnateBell GenericFinal": "https://static.miraheze.org/pgrwiki/d/d4/Coating-OrnateBell-GenericFinal.png",
+        "OrnateBell Alt1": "https://static.miraheze.org/pgrwiki/1/11/Coating-OrnateBell-Alt1.png"
+    },
+    "Nanami: Remote Star": {
+        "RemoteStar Generic": "https://static.miraheze.org/pgrwiki/d/d5/Coating-RemoteStar-Generic.png",
+        "RemoteStar GenericModified": "https://static.miraheze.org/pgrwiki/2/2e/Coating-RemoteStar-GenericModified.png",
+        "RemoteStar GenericFinal": "https://static.miraheze.org/pgrwiki/a/af/Coating-RemoteStar-GenericFinal.png",
+        "RemoteStar Alt1": "https://static.miraheze.org/pgrwiki/2/2e/Coating-RemoteStar-Alt1.png"
+    },
+    "Haicma: Veiled Star": {
+        "VeiledStar Generic": "https://static.miraheze.org/pgrwiki/a/ae/Coating-VeiledStar-Generic.png",
+        "VeiledStar GenericModified": "https://static.miraheze.org/pgrwiki/c/c3/Coating-VeiledStar-GenericModified.png",
+        "VeiledStar GenericFinal": "https://static.miraheze.org/pgrwiki/2/24/Coating-VeiledStar-GenericFinal.png",
+        "VeiledStar Alt1": "https://static.miraheze.org/pgrwiki/a/aa/Coating-VeiledStar-Alt1.png"
+    }
+}
