@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image, ImageFile
 import streamlit as st
 from streamlit import caching
 import json
@@ -6,6 +6,7 @@ import os
 import wallpaper_gen
 import utils
 st.set_option("deprecation.showfileUploaderEncoding", False)
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 st.markdown("""
 # Punishing Gray Raven Phone Wallpaper Generator

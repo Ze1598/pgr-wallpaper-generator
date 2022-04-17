@@ -1,9 +1,10 @@
 from io import BytesIO
 import os
-from PIL import Image, ImageEnhance, ImageDraw
+from PIL import Image, ImageEnhance, ImageDraw, ImageFile
 from typing import List, Dict, Tuple
 import base64
 import streamlit as st
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 
 def change_alpha(img: Image.Image, opacity: float) -> Image.Image:

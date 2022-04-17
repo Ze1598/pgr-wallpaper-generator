@@ -1,8 +1,9 @@
-from PIL import Image, ImageDraw, ImageEnhance, ImageFilter
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFile
 import requests
 from io import BytesIO
 import os
 import utils
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 DIMENSIONS = (640, 1280)
 ART_ALPHA = 0.8
