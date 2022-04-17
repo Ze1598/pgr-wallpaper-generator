@@ -70,7 +70,8 @@ if custom_bg_img != None:
 
 # Change the operator theme color
 # Using the beta version until the generally available version is fixed in Streamlit 
-theme_colour = st.beta_color_picker("Feel free to change the operator theme color", "#B7011D")
+# theme_colour = st.beta_color_picker("Feel free to change the operator theme color", "#B7011D")
+theme_colour = st.color_picker("Feel free to change the operator theme color", "#B7011D")
 
 fg_art_url = character_coatings.get(foreground_art, None)
 bg_art_url = character_coatings.get(background_art, None)
