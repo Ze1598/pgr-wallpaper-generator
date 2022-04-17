@@ -17,7 +17,7 @@ If you're interested in the code, you can find it on my GitHub repository [here]
 
 For feedback, feel free to reach out to me on Twitter [@ze1598](https://twitter.com/ze1598).
 
-P.S. as the images are high resolution, you might come across partial loads in the image art. Please try different art options until you the art you want fully loads.
+P.S. as the images are high resolution, you might come across partial loads in the image art. Please try different art options until the art you want fully loads.
 """)
 
 
@@ -46,8 +46,6 @@ character_coatings = main_data[character_choice]
 #     "Choose the coating",
 #     sorted(tuple(character_coatings.keys()))
 # )
-
-
 
 # Choose the fore and background art individually
 foreground_art = st.selectbox(
