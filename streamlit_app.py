@@ -13,9 +13,11 @@ st.markdown("""
 
 Create phone wallpapers for your favourite characters!
 
-If you're interested in the code, you can find it on my GitHub repository [here]().
+If you're interested in the code, you can find it on my GitHub repository [here](https://github.com/Ze1598/pgr-wallpaper-generator).
 
 For feedback, feel free to reach out to me on Twitter [@ze1598](https://twitter.com/ze1598).
+
+P.S. as the images are high resolution, you might come across partial loads in the image art. Please try different art options until you the art you want fully loads.
 """)
 
 
