@@ -111,6 +111,23 @@ def scrape_op_art(char_pages: Dict[str, str]) -> None:
         # And store it under the character key in the main dict
         char_info[character] = coating_dict
         # char_info.append({character: coating_dict})
+        
+        from PIL import Image
+        import os
+        import time
+        
+        for i in range(len(coatings_imgs)):
+            img = coatings_imgs[i]
+            img_name = character.replace(":", "_") + coatings_names[i] + ".png"
+            img_request = requests.get(img)
+            time.sleep(10)
+            # Get the file extension of the image to be downloaded
+            # img_ext = url.split('.')[-1]
+            # Create an image from the binary data returned by the request
+            img = Image.open(BytesIO(img_request.content))
+            # Now save the image
+            out_path = os.path.join("images", img_name)
+            img.save(out_path)
 
     
     # Export the list of skins dictionaries as a JSON
